@@ -62,6 +62,12 @@ body {
   width: 15%;
 }
 
+#front {
+  width: 50%;
+  margin-left: 65em;
+  margin-top: 7.5em
+}
+
 /* Typography */
 p {
   color: white;
